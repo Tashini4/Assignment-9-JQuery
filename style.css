@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.kiit{
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+}
+#light-panel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    gap: 2rem;
+
+}
+#light-panel .light{
+    width: 150px;
+    height: 60px;
+    border: 1px solid black;
+}
+.button-panel{
+    margin-left: 600px;
+    padding: 20px;
+}
+.button-panel button{
+
+}
+
